@@ -1,0 +1,7 @@
+export const ADMIN_ROUTE = '/admin'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const CAFE_ROUTE = '/'
+export const ABOUT_ROUTE = '/about'
+export const MENU_ROUTE = '/menu'
+export const DEVICE_ROUTE = '/device'
